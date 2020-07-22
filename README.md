@@ -16,10 +16,11 @@ The repository is structered like this:
 * **3_Generical Machine Learning Models:** we made an inicial approaching of the beahaviour of the main machine learning algorithms.
 
 * **4_Improving Machine Learning Models:** we selected the best features (in order to reduce the computing time) and the best hyperparameters for the next models:
-  *Decision Tree
-  *Bagging
-  *Random Forest
-  *AdaBoost (Boosting)
+
+    * Decision Tree
+    * Bagging 
+    * Random Forest
+    * AdaBoost (Boosting)
  
  * **5_Final Comparison**: a final comparision between the final models obtained is made.
 
